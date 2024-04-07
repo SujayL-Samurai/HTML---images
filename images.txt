@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first website</title>
+    </head>
+    <body>
+    
+    <h1>This is a Handsome dog</h1>
+    <a href="https://en.wikipedia.org/wiki/Dog">
+    <img src="images/dog_pic.png"
+    alt="This is a pic of a dog"
+    height="400">  
+    </a>
+
+    <img src="images/dog_cute.gif"
+    alt="This is a cute gif of a dog"
+    height="300"
+    >
+
+
+
+    <h3>Woof woof!</h3>
+
+    </body>
+</html>
